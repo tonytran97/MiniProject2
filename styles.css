@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+body {
+    background-color: gray;
+}
+
+section {
+    width: 30%;
+    min-height: 60%;
+    border: solid;
+    display: flex;
+}
+
+footer {
+    text-align: center;
+}
